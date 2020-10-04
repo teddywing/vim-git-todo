@@ -1,0 +1,7 @@
+:GitTodo	git_todo.txt	/*:GitTodo*
+g:git_todo_default_ref	git_todo.txt	/*g:git_todo_default_ref*
+git-todo-commands	git_todo.txt	/*git-todo-commands*
+git-todo-introduction	git_todo.txt	/*git-todo-introduction*
+git-todo-license	git_todo.txt	/*git-todo-license*
+git-todo-settings	git_todo.txt	/*git-todo-settings*
+git_todo.txt	git_todo.txt	/*git_todo.txt*
